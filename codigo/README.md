@@ -83,7 +83,7 @@ html ==>
 
     margin: 0;
 
-    background-color: #3c253d;
+    background-color: #3c273d;
 
 }
 
@@ -216,6 +216,5 @@ html ==>
     text-decoration: none;
 
 }
-
 //fim do codigo da pagina de login// 
-
+ 
