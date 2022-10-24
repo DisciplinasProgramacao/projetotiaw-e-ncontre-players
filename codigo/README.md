@@ -218,3 +218,38 @@ html ==>
 }
 //fim do codigo da pagina de login// 
  
+ //INICIO codigo do rodape//
+ 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Rodape</title>
+</head>
+<body>
+    
+</body>
+<footer>
+    <p>@Copyright 2022 - Todos os direitos reservados.</p>
+    <div class="bloco">
+        <p class="final">E-ncontre</p>
+    </div>
+</footer>
+</html>
+
+CSS ==>
+
+.bloco{
+    background-color: #3c253d;
+}
+
+.final{
+    color: white;
+    text-align: center;
+}
+
+
+//FINAL codigo do rodape//
