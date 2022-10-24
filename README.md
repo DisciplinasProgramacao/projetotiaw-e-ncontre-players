@@ -7,7 +7,7 @@ Nosso projeto e uma platafor que busca facilitar o encontro de companheiros em j
 
 * Franklin Henrique de Araujo Silva  
 * Marcos Cesar
-* João 
+* João Victor Alves
 * Victor Tavora 
 * João Guilherme 
 
