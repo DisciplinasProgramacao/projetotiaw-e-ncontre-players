@@ -24,4 +24,4 @@ https://github.com/orgs/DisciplinasProgramacao/projects/51/views/1
 1- Fazer o download do arquivo zip
 2- Extrair o arquivo
 3- Abrir a pasta "codigo"
-4- Abrir o arquivo index
+4- Abrir o arquivo "index"
