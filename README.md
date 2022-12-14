@@ -3,6 +3,17 @@
 
 Nosso projeto é uma plataforma que busca facilitar o encontro de players em jogos online com foco em jogos fps.
 
+# Requisitos cumpridos: 40/100
+  - só cadastra um usuário
+  - página de pefil fixo
+  - sem os outros requisitos
+  
+## Comentários da correção
+
+Trabalho não apresentado na sprint 4. 
+
+Instruções abaixo demonstram pouco entendimento da matéria: o uso de um repositório comum é justamente para evitar downloads e operações com arquivos.
+
 ## Alunos integrantes da equipe
 
 * Franklin Henrique de Araujo Silva  
