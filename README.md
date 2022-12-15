@@ -7,7 +7,11 @@ Nosso projeto é uma plataforma que busca facilitar o encontro de players em jog
   - só cadastra um usuário
   - página de pefil fixo
   - sem os outros requisitos
-  
+
+# Nota de apresentação 0/100 (não apresentado)
+
+**Importante:** A nota-base do grupo é calculada a partir das porcentagens acima. A nota individual leva em consideração ainda a nota de acompanhamento nas reuniões de grupos, a participação efetiva nas tarefas e commits e os descontos por falta nas reuniões. 
+
 ## Comentários da correção
 
 Trabalho não apresentado na sprint 4. 
